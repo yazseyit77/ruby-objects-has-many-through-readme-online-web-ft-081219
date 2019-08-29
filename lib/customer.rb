@@ -21,4 +21,5 @@ class Customer
       meal.customer == self
     end
   end
+  
 end
